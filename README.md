@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/🌐_VER_WEB_EN_VIVO-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Web">
   </a>
   
-  &nbsp; &nbsp; <a href="https://github.com/briankm7?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_VER_CÓDIGO_FUENTE_(REPOS)-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorios">
+  &nbsp; &nbsp; <a href="https://github.com/briankm7?tab=repositories](https://github.com/briankm7/Proyectos-">
+    <img src="https://img.shields.io/badge/📂_VER_CÓDIGO_FUENTE_(PROYECTOS)-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorios">
   </a>
 </p>
 
