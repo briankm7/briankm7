@@ -67,7 +67,7 @@ Herramientas y lenguajes que utilizo en mi día a día:
 Si quieres contactar conmigo o ver más sobre mi trabajo:
 
 * 🐙 **GitHub:** [@briankm7](https://github.com/briankm7)
-* 💼 **LinkedIn:** (https://www.linkedin.com/in/briankm7)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/briankm7
 * 📧 **Email:** [bkitokomobarik@gmail.com](mailto:bkitokomobarik@gmail.com)
 
 <p align="center">
