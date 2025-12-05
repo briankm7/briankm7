@@ -8,22 +8,23 @@
   Bienvenido a mi colección de proyectos. Aquí encontrarás desde juegos con lógica web hasta aplicaciones de escritorio con arquitectura profesional de backend.
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://briankm7.github.io/Proyectos-/">
     <img src="https://img.shields.io/badge/🌐_VER_WEB_EN_VIVO-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Web">
   </a>
-  
-  &nbsp; &nbsp; <a href="https://github.com/briankm7/Proyectos-">
+  &nbsp; &nbsp;
+  <a href="https://github.com/briankm7/Proyectos-">
     <img src="https://img.shields.io/badge/📂_VER_CÓDIGO_FUENTE_(PROYECTOS)-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorios">
   </a>
-</p>
+</div>
+<br>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-lightgreen?style=for-the-badge" alt="Status">
-</p>
+</div>
 
 ---
 
@@ -71,4 +72,8 @@ Si quieres contactar conmigo o ver más sobre mi trabajo:
 
 * 🐙 **GitHub:** [@briankm7](https://github.com/briankm7)
 * 💼 **LinkedIn:** [Mi Perfil Profesional](https://www.linkedin.com/in/briankm7)
-* 📧 **Email:** [bkitokomobarik@gmail
+* 📧 **Email:** [bkitokomobarik@gmail.com](mailto:bkitokomobarik@gmail.com)
+
+<p align="center">
+    <small>© 2025 Brian - Desarrollado como parte del ciclo DAM.</small>
+</p>
