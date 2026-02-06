@@ -11,7 +11,9 @@
 <div align="center">
   <a href="https://briankm7.github.io/Proyectos-/"><img src="https://img.shields.io/badge/🌐_VER_WEB_EN_VIVO-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Web"></a>
   &nbsp; &nbsp;
-  <a href="https://github.com/briankm7/Proyectos-"><img src="https://img.shields.io/badge/📂_VER_CÓDIGO_FUENTE_(PROYECTOS)-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorios"></a>
+  <a href="https://github.com/briankm7/Proyectos-"><img src="https://img.shields.io/badge/📂_VER_CÓDIGO_FUENTE-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorios"></a>
+  &nbsp; &nbsp;
+  <a href="./CV_Brian_Kitoko.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Descargar_CV-PDF-ff0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV"></a>
 </div>
 <br>
 
@@ -67,7 +69,8 @@ Herramientas y lenguajes que utilizo en mi día a día:
 Si quieres contactar conmigo o ver más sobre mi trabajo:
 
 * 🐙 **GitHub:** [@briankm7](https://github.com/briankm7)
-* 💼 **LinkedIn:** https://www.linkedin.com/in/briankm7
+* 💼 **LinkedIn:** [Mi Perfil Profesional](https://www.linkedin.com/in/briankm7)
+* 📄 **CV:** [Descargar PDF](./CV_Brian_Kitoko.pdf)
 * 📧 **Email:** [bkitokomobarik@gmail.com](mailto:bkitokomobarik@gmail.com)
 
 <p align="center">
