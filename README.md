@@ -14,7 +14,9 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/briankm7/"><img src="https://img.shields.io/badge/LinkedIn-briankm7-1F3A5F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
-  <a href="./CV_Brian_Kitoko.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-1F3A5F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
+  <a href="./CV_Brian_Kitoko.pdf"><img src="https://img.shields.io/badge/Résumé-ES-1F3A5F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV español"></a>
+  &nbsp;
+  <a href="./CV_Brian_Kitoko_EN.pdf"><img src="https://img.shields.io/badge/Résumé-EN-1F3A5F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV English"></a>
 </div>
 
 <div align="center">
