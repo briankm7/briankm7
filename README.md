@@ -1,78 +1,96 @@
-<h1 align="center">🖥️ Portafolio de Desarrollo - Brian</h1>
+<h1 align="center">Brian Kitoko</h1>
 
 <p align="center">
-  <strong>Estudiante de 2º de DAM (Desarrollo de Aplicaciones Multiplataforma)</strong>
+  <strong>Software Developer · Python Backend & Applied AI</strong>
 </p>
 
 <p align="center">
-  Bienvenido a mi colección de proyectos. Aquí encontrarás desde juegos con lógica web hasta aplicaciones de escritorio con arquitectura profesional de backend.
+  I build AI products in production. Currently freelancing for <strong>Linaris</strong>,<br>
+  where I develop a multi-tenant SaaS platform end to end.
 </p>
 
 <div align="center">
-  <a href="https://briankm7.github.io/Proyectos-/"><img src="https://img.shields.io/badge/🌐_VER_WEB_EN_VIVO-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Web"></a>
-  &nbsp; &nbsp;
-  <a href="https://github.com/briankm7/Proyectos-"><img src="https://img.shields.io/badge/📂_VER_CÓDIGO_FUENTE-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorios"></a>
-  &nbsp; &nbsp;
-  <a href="./CV_Brian_Kitoko.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Descargar_CV-PDF-ff0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV"></a>
+  <a href="https://www.goldenfc.es"><img src="https://img.shields.io/badge/Live_project-goldenfc.es-1F3A5F?style=for-the-badge&logo=vercel&logoColor=white" alt="goldenfc.es"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/briankm7/"><img src="https://img.shields.io/badge/LinkedIn-briankm7-1F3A5F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="./CV_Brian_Kitoko.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-1F3A5F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
 </div>
-<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-lightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## What I'm working on
 
-Actualmente estoy cursando el segundo año de **DAM**, especializándome en el desarrollo de software. Este repositorio sirve como mi laboratorio personal donde aplico lo aprendido en clase y exploro nuevas tecnologías por mi cuenta.
+Multi-tenant SaaS for **Linaris**: two FastAPI backends sharing a core library, semantic
+search over a vector database, React + TypeScript frontends, and 200+ automated tests.
+I started there as an intern building an LLM-agent tool that analyses social media
+accounts, and was contracted to keep building after the internship ended.
 
-> *Mi enfoque actual es la Arquitectura de Software y el desarrollo de soluciones robustas, combinando lógica sólida en Java con interfaces funcionales.*
-
----
-
-## 🚀 Proyectos Destacados
-
-### ☕ Aplicaciones de Escritorio (Backend & Arquitectura)
-*Enfoque: Estructura de código, bases de datos y patrones de diseño.*
-
-| Proyecto | Tecnologías | Descripción | Enlace |
-| :--- | :--- | :--- | :---: |
-| **📦 Sistema de Gestión de Inventario** | `Java` `MySQL` `MVC` | Aplicación CRUD profesional de escritorio. Implementa **Arquitectura MVC**, Patrón **DAO** para la persistencia de datos y seguridad con *PreparedStatements*. | [Ver Código](https://github.com/briankm7/Proyectos-/tree/main/Gestor_Inventario_Java) |
-
-### 👾 Desarrollo Web & Lógica (Frontend)
-*Juegos interactivos jugables desde el navegador.*
-
-| Proyecto | Tecnologías | Descripción | Demo |
-| :--- | :--- | :--- | :---: |
-| **🛸 Space Invaders** | `JS Vanilla` `DOM` | Recreación del clásico arcade. Implementa lógica de colisiones, bucles de renderizado y gestión de eventos de teclado. | [Jugar](https://briankm7.github.io/Proyectos-/) |
-| **🔴 4 en Raya** | `JS Arrays` `Lógica` | Juego de estrategia. Uso intensivo de matrices (arrays bidimensionales) para comprobar algoritmos de victoria. | [Jugar](https://briankm7.github.io/Proyectos-/) |
+Most of that work is under NDA — so the projects below are where you can actually see
+how I build.
 
 ---
 
-## 🛠 Stack Tecnológico
+## Featured projects
 
-Herramientas y lenguajes que utilizo en mi día a día:
+### ⚽ [goldenfc.es](https://www.goldenfc.es) — live in production
 
-* **Backend & Escritorio:** ![Java](https://img.shields.io/badge/-Java-gray?style=flat-square&logo=java) ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql) JDBC, Swing.
-* **Frontend:** ![JS](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript) HTML5, CSS3.
-* **Herramientas:** NetBeans, VS Code, Git & GitHub.
-* **🌱 Aprendiendo:** React, Spring Boot, Despliegue en Nube.
+The website and fantasy league for my local football team in Aranjuez. Standings,
+fixtures, squad, and a fantasy game I designed and built end to end: player packs,
+line-ups, and scoring driven by what actually happens on the pitch.
+
+`Next.js` `Supabase` `Vercel` `PWA`
+
+> Installable on mobile, used every matchday by **21 active players**.
+> Built because my team wanted it — not as a portfolio exercise.
+
+### 🔍 [minirag](https://github.com/briankm7/minirag) — RAG API
+
+Ingest documents, search them semantically, get answers grounded in the retrieved
+passages, with citations.
+
+`FastAPI` `Qdrant` `Pydantic` `Docker` `GitHub Actions`
+
+> External providers sit behind interfaces, so it **runs with no API keys and no
+> database** — clone it and it works. 89% test coverage, CI on every push, and
+> documented design decisions including honest limitations.
 
 ---
 
-## 📬 Contacto
+## Stack
 
-Si quieres contactar conmigo o ver más sobre mi trabajo:
+| | |
+| :--- | :--- |
+| **Applied AI** | RAG, embeddings, vector databases (Qdrant), LLM APIs (Anthropic, Gemini), Whisper, agent design |
+| **Backend** | Python, FastAPI, Pydantic, async/await, REST APIs, JWT / OAuth / RLS, pytest, PostgreSQL, SQLite, MySQL |
+| **Frontend** | React, Next.js, TypeScript, Vite, Tailwind CSS |
+| **Ops & tools** | Docker, GitHub Actions, Vercel, Supabase, Git |
+| **Also** | Java (MVC, Swing, JDBC), Shopify (Liquid) |
 
-* 🐙 **GitHub:** [@briankm7](https://github.com/briankm7)
-* 💼 **LinkedIn:** [Mi Perfil Profesional](https://www.linkedin.com/in/briankm7)
-* 📄 **CV:** [Descargar PDF](./CV_Brian_Kitoko.pdf)
-* 📧 **Email:** [bkitokomobarik@gmail.com](mailto:bkitokomobarik@gmail.com)
+---
+
+## Background
+
+Graduated in **Multi-Platform Application Development (DAM)**. Before software I spent
+four years in sales and customer-facing roles, which is where I learned to explain
+technical things to people who don't want technical answers.
+
+**Languages:** Spanish and Catalan (native) · English and French (C1)
+
+---
 
 <p align="center">
-    <small>© 2025 Brian - Desarrollado como parte del ciclo DAM.</small>
+  <strong>Open to remote work · Available immediately</strong><br>
+  <a href="mailto:bkitokomobarik@gmail.com">bkitokomobarik@gmail.com</a>
 </p>
